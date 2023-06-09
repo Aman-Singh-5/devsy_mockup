@@ -142,6 +142,12 @@ export default function Banner() {
                         algorithms to solve complex problems and<br/> automate processes. They create intelligent<br/>
                         systems that can learn and improve over time.</p>
                 </div>
+                <div class="box">
+                    <h4>AI/ML Developer</h4>
+                    <p>Our AI/ML developers design and implement<br/>artificial intelligence and machine learning<br/>
+                        algorithms to solve complex problems and<br/> automate processes. They create intelligent<br/>
+                        systems that can learn and improve over time.</p>
+                </div>
             </div>
         </div>
     </div>
